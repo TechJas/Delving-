@@ -12,7 +12,7 @@
 
 **Delver** is an emotionally intelligent curation engine designed to ground you, lift you, and then let you float. It doesn't just shuffle songs; it builds a bridge between emotional states.
 
-The generated playlist, **"Antigravity – Sakeena"**, is not random. It is engineered with a mandatory "Antigravity Curve" that transitions the listener through four distinct phases of regulations.
+The generated playlist, **"Delver"**, is not random. It is engineered with a mandatory "Antigravity Curve" that transitions the listener through four distinct phases of regulations.
 
 ## 🌊 The Antigravity Curve
 
